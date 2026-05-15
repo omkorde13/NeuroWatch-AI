@@ -1,0 +1,72 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Virtual Environment
+venv/
+.env/
+
+# PyTorch
+*.pth
+
+# Dataset Files
+datasets/
+*.npy
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Node Modules
+node_modules/
+
+# Build Files
+dist/
+build/
+
+# React
+frontend/node_modules/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Cache
+.cache/
+
+# YOLO
+runs/
+
+# Temporary
+temp/
+tmp/
+
+# AI State
+ai_state.json
+
+# Coverage
+coverage/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment Variables
+.env
+
+# Media Outputs
+*.mp4
+*.avi
+*.mov
+
+# Generated Images
+*.jpg
+*.png
